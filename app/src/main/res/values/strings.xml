@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternetAndBTChecker</string>
+    <string name="internet_on">Internet: On</string>
+    <string name="bluetooth_on">Bluetooth: On</string>
+    <string name="internet_off">Internet: Off</string>
+    <string name="bluetooth_off">Bluetooth: Off</string>
+</resources>
