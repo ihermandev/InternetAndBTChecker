@@ -1,4 +1,5 @@
 # InternetAndBTChecker
-An example of how to check real Internet connection instead of Wifi state checker also Bluetooth status. Trusted domain added to network security configuration file, in this example, I use Google’s domain.
-
+This is an example for android that demonstrates how to verify: 
+* an active internet connection as opposed to simply wifi status
+* bluetooth connection
 <img src="https://media.giphy.com/media/UW2hw7Nu2mwolwTvgy/giphy.gif" />
